@@ -1,0 +1,5 @@
+.*
+!.gitignore
+slurm*
+*.sbatch
+results/Poon_data
